@@ -7,8 +7,8 @@ namespace EstructuraSwitch
         static void Main(string[] args)
         {
             Console.WriteLine("Hola, aqui probando la estructura Switch");
-            
-            //EstructuraSwitch();
+            //Dos programas dados de alta en el Main
+            EstructuraSwitch();
             Switchdonas();
         }
         static void Switchdonas()
